@@ -1,0 +1,10 @@
+.ali{
+    background-color: blue;
+    border: 4px red solid ;
+    border-radius: 50px;
+}
+.ali:hover{
+    background-color: green;
+    border: 4px solid yellow ;
+    color: chocolate;
+}

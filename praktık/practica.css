@@ -1,0 +1,21 @@
+.nav_list{
+    display: flex;
+    gap: 50px;
+}
+.header_head_container{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+}
+nav{
+    margin-right: 62px;
+}
+.sayt_logo{
+    margin-left: 74px;
+    width: 153px;
+}

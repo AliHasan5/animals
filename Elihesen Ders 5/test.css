@@ -1,0 +1,13 @@
+.grid_container{
+    background-color: limegreen;
+    height: 900px;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(100px,1fr));
+    gap: 30px;
+  }
+  .grid{
+    background-color: coral;
+    height: 100px;
+    min-width: 100px;
+    }

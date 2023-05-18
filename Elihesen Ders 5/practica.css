@@ -1,0 +1,34 @@
+.ali{
+    background-color: blue;
+    height: 700px;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(50px,1fr));
+    gap: 500px;
+
+}
+.araz{
+    background-color: brown;
+    height: 50px;
+    min-width: 50px;
+}
+.ferman{
+    background-color: green;
+    height: 50px;
+    min-width: 50px;
+}
+.emil{
+    background-color: fuchsia;
+    height: 50px;
+    min-width: 50px;
+}
+.gasan{
+    background-color: red;
+    height: 50px;
+    min-width: 50px;
+}
+.qara{
+    background-color: yellow;
+    height: 50px;
+    min-width: 50px;
+}
